@@ -48,6 +48,4 @@ The chatbot takes the user's message, processes it using Natural Language Proces
 Author
 Akriti
 
-**Ab README save karne ke liye `Commit changes` par click karna.** ✅
 
-Uske baad hum **`chatbot.py` upload** karenge.
